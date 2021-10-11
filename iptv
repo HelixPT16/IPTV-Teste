@@ -1,5 +1,10 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-id="TVCineAction.pt" tvg-country="PT" tvg-language="Portuguese;English" tvg-logo="" group-title="Movies",TVCine Action (1080p)
-http://185.236.229.21:9981/play/a04n
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png",TV Cine EDITION
+http://185.236.229.21:9981/play/a061:TV Cine Edition
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVCine-ACTION.png",TV Cine Action
+http://185.236.229.21:9981/play/a04n:TV Cine Action
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png",TV Cine Emotion
+http://185.236.229.21:9981/play/a05z:TV Cine Emotion
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png",TV Cine Top
+http://185.236.229.21:9981/play/a04w:TV Cine Top
