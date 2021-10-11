@@ -1,0 +1,5 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="TVCineAction.pt" tvg-country="PT" tvg-language="Portuguese;English" tvg-logo="" group-title="Movies",TVCine Action (1080p)
+http://185.236.229.21:9981/play/a04n
