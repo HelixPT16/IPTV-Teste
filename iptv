@@ -1,40 +1,23 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png",TV Cine EDITION
-http://185.236.229.21:9981/play/a061:TV Cine Edition
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVCine-ACTION.png",TV Cine Action
-http://185.236.229.21:9981/play/a04n:TV Cine Action
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png",TV Cine Emotion
-http://185.236.229.21:9981/play/a05z:TV Cine Emotion
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png",TV Cine Top
-http://185.236.229.21:9981/play/a04w:TV Cine Top
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2019/07/Helix_Logo.png",---HELIX IPTV---
+:HELIX IPTV
 
-#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="News",SIC Noticias [Geo-blocked]
-http://live.impresa.pt/live/sicnot/sicnot.m3u8
-#EXTINF:-1 tvg-id="RTP1.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/5-563718101410.png" group-title="General",RTP1 (480p)
-http://162.212.178.69:41042/bysid/608
-#EXTINF:-1 tvg-id="RTP2.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/3-363718101410.png" group-title="General",RTP2 (504p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP3.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/64-393818101410.png" group-title="News",RTP3 (504p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/106-563419141305.png" group-title="General",RTP Açores (504p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/27-363219141305.png" group-title="General",RTP África (504p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png" group-title="General",RTP Internacional (504p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/107-443519141305.png" group-title="General",RTP Madeira (504p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SICInternacional.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="General",SIC Internacional (720p)
+
+#EXTINF:-1 group-title="TV" tvg-id="TVI" tvg-logo="https://m3upt.com/logos/TVI.png",TVI
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMSA3OjA6MiBQTSZoYXNoX3ZhbHVlPVh4VWtoQ3hxS3RENnltTHN5ZGptL0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xN2ZhNDc2Ni1lMTQ3LTRhNzUtOGI0Mi1jN2U4YTQ3Yzg0MGE=
+
+#EXTINF:-1 group-title="TV" tvg-id="SIC NOTICIAS" tvg-logo="https://m3upt.com/logos/SIC-Notícias.png",SIC Notícias
+https://live.impresa.pt/live/sicnot/sicnot540p.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="TVI24" tvg-logo="https://m3upt.com/logos/TVI24.png",TVI 24
+https://video-auth6.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMSA3OjA6MiBQTSZoYXNoX3ZhbHVlPWFLeWd1RU1aZVZaV3NwbVdGYTBMSlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1kZjhmOTBmNS04ODdiLTQzNTItOGM2ZS03ZWVmM2Q4OWI1N2Y=
+
+#EXTINF:-1 group-title="TV" tvg-id="ARTV" tvg-logo="https://m3upt.com/logos/ARTV.png",ARTV
+https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",SIC Internacional
 http://live.impresa.pt/live/sicint/sicint.m3u8
 
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="News",TVI24 (480p)
-https://iptv-all.lanesh4d0w.codes/portugal/tvi24
-#EXTINF:-1 tvg-id="TVIReality.pt" tvg-country="PT" tvg-language="" tvg-logo="" group-title="",TVI Reality (480p)
-https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="TVII" tvg-logo="",TVI Internacional
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMSA3OjA6MyBQTSZoYXNoX3ZhbHVlPVpVS01iRVpNZkYzQ01ablc4S1pHUUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05MGVlMGNmMy1kMTcxLTQ3YmUtYjlkNS02YzBiNTc2NGQyZTc=
