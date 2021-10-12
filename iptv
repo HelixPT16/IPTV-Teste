@@ -10,6 +10,9 @@ https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX
 #EXTINF:-1 group-title="TV" tvg-id="SIC NOTICIAS" tvg-logo="https://m3upt.com/logos/SIC-Notícias.png",SIC Notícias
 https://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="SIC NOTICIAS" tvg-logo="https://m3upt.com/logos/SIC-Notícias.png",SIC
+https://live.impresa.pt/live/sic/sic540p.m3u8
+
 #EXTINF:-1 group-title="TV" tvg-id="TVI24" tvg-logo="https://m3upt.com/logos/TVI24.png",TVI 24
 https://video-auth6.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMSA3OjA6MiBQTSZoYXNoX3ZhbHVlPWFLeWd1RU1aZVZaV3NwbVdGYTBMSlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1kZjhmOTBmNS04ODdiLTQzNTItOGM2ZS03ZWVmM2Q4OWI1N2Y=
 
@@ -48,3 +51,21 @@ http://185.236.229.21:9981/play/a056
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Disney Junior
 http://185.236.229.21:9981/play/a03q
+
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Sport TV 1 HD
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/189?checkedby:ahlakid.com
+
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Sport TV 2 HD
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/190?checkedby:ahlakid.com
+
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Sport TV 3 HD
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/191?checkedby:ahlakid.com
+
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Sport TV 4 HD
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/192?checkedby:ahlakid.com
+
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Eleven Sport 4 HD
+http://185.236.229.21:9981/play/a05x?checkedby:ahlakid.com
+
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Eleven Sport 5 HD
+http://185.236.229.21:9981/play/a05y?checkedby:ahlakid.com
