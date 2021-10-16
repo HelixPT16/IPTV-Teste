@@ -72,3 +72,6 @@ http://185.236.229.21:9981/play/a05x?checkedby:ahlakid.com
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Eleven Sport 5 HD
 http://185.236.229.21:9981/play/a05y?checkedby:ahlakid.com
+
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",sport tv 1 teste
+https://2203.janjua.pw:8088/live/sp302/playlist.m3u8?vidictid=189166645333&id=105182&pk=6c143a7a867193efb61a27589b5a28e0303838e6fb0b9da3d46554f2cb5a8214
