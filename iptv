@@ -28,6 +28,9 @@ https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlis
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",TVI Reality
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",CMTV
+https://2202lw.janjua.pw:8088/live/cmtv1706/playlist.m3u8?vidictid=189166176825&id=98404&pk=6c143a7a867193efb61a27589b5a28e0303838e6fb0b9da3d46554f2cb5a8214
+
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",TVCine Top
 http://185.236.229.21:9981/play/a04w
 
@@ -63,6 +66,7 @@ http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/191?checkedby:ahlakid.com
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Sport TV 4 HD
 http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/192?checkedby:ahlakid.com
+
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Sport TV 5 HD
 https://jobvyprjddqlpwxa.wzcdn264.net:8443/hls/war3u.m3u8?s=AtFgd2GKvYxCDHZVlH1b6A&e=1634392497
 
