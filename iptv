@@ -5,7 +5,7 @@
 
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI" tvg-logo="https://m3upt.com/logos/TVI.png",TVI
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMSA3OjA6MiBQTSZoYXNoX3ZhbHVlPVh4VWtoQ3hxS3RENnltTHN5ZGptL0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xN2ZhNDc2Ni1lMTQ3LTRhNzUtOGI0Mi1jN2U4YTQ3Yzg0MGE=
+https://video-auth1.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMSA1OjQ5OjggUE0maGFzaF92YWx1ZT1neC9WQ3JuQ2YwQmloWXhlUWlqb2lRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MDQ5MjM4YjAtZTIwMy00MmRmLWE2N2UtYmExZDkyYjU3MjM4
 
 #EXTINF:-1 group-title="TV" tvg-id="SIC NOTICIAS" tvg-logo="https://m3upt.com/logos/SIC-Notícias.png",SIC Notícias
 https://live.impresa.pt/live/sicnot/sicnot540p.m3u8
