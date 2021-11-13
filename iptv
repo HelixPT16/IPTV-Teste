@@ -4,59 +4,9 @@
 :HELIX IPTV
 
 
-#EXTINF:-1 group-title="TV" tvg-id="TVI" tvg-logo="https://m3upt.com/logos/TVI.png",TVI
-https://video-auth1.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMSA1OjQ5OjggUE0maGFzaF92YWx1ZT1neC9WQ3JuQ2YwQmloWXhlUWlqb2lRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MDQ5MjM4YjAtZTIwMy00MmRmLWE2N2UtYmExZDkyYjU3MjM4
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Sport TV 1
+https://2d02.janjua.pw:8088/live/sp302/playlist.m3u8?vidictid=189444698552&id=105182&pk=d452bd6b9163f640a9bfd0a5d7f47f7d0e1ad8b5b4ae002c667771a62a627625
 
-#EXTINF:-1 group-title="TV" tvg-id="SIC NOTICIAS" tvg-logo="https://m3upt.com/logos/SIC-Notícias.png",SIC Notícias
-https://live.impresa.pt/live/sicnot/sicnot540p.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="SIC NOTICIAS" tvg-logo="https://m3upt.com/logos/SIC-Notícias.png",SIC
-https://live.impresa.pt/live/sic/sic540p.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="TVI24" tvg-logo="https://m3upt.com/logos/TVI24.png",TVI 24
-https://video-auth6.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMSA3OjA6MiBQTSZoYXNoX3ZhbHVlPWFLeWd1RU1aZVZaV3NwbVdGYTBMSlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1kZjhmOTBmNS04ODdiLTQzNTItOGM2ZS03ZWVmM2Q4OWI1N2Y=
-
-#EXTINF:-1 group-title="TV" tvg-id="ARTV" tvg-logo="https://m3upt.com/logos/ARTV.png",ARTV
-https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",SIC Internacional
-http://live.impresa.pt/live/sicint/sicint.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",TVI Internacional
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMSA3OjA6MyBQTSZoYXNoX3ZhbHVlPVpVS01iRVpNZkYzQ01ablc4S1pHUUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05MGVlMGNmMy1kMTcxLTQ3YmUtYjlkNS02YzBiNTc2NGQyZTc=
-
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",TVI Reality
-https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",CMTV
-https://2202lw.janjua.pw:8088/live/cmtv1706/playlist.m3u8?vidictid=189166176825&id=98404&pk=6c143a7a867193efb61a27589b5a28e0303838e6fb0b9da3d46554f2cb5a8214
-
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",TVCine Top
-http://185.236.229.21:9981/play/a04w
-
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",TVCine Emotion
-http://185.236.229.21:9981/play/a05z
-
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",TVCine Edition
-http://185.236.229.21:9981/play/a061
-
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",TVCine Action
-http://185.236.229.21:9981/play/a04n
-
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",NOS Studios
-http://185.236.229.21:9981/play/a054
-
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Sporting TV
-http://185.236.229.21:9981/play/a03r
-
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Disney Channel 
-http://185.236.229.21:9981/play/a056
-
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Disney Junior
-http://185.236.229.21:9981/play/a03q
-
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Sport TV 1 HD
-https://2203.janjua.pw:8088/live/sp302/playlist.m3u8?vidictid=189161802075&id=105182&pk=6c143a7a867193efb61a27589b5a28e0303838e6fb0b9da3d46554f2cb5a8214
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Sport TV 2 HD
 http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/190?checkedby:ahlakid.com
@@ -70,8 +20,10 @@ http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/192?checkedby:ahlakid.com
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Sport TV 5 HD
 http://www.magicoiptv.org:8080/said/said123/450?checkedby:iptvcat.com
 
+
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Eleven Sport 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Eleven Sport 4 HD
 http://185.236.229.21:9981/play/a05x?checkedby:ahlakid.com
@@ -79,5 +31,9 @@ http://185.236.229.21:9981/play/a05x?checkedby:ahlakid.com
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Eleven Sport 5 HD
 http://185.236.229.21:9981/play/a05y?checkedby:ahlakid.com
 
+
+
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Canal 11
-https://2d03lw.janjua.pw:8088/live/agrrrr/playlist.m3u8?vidictid=189164718835&id=97909&pk=6c143a7a867193efb61a27589b5a28e0303838e6fb0b9da3d46554f2cb5a8214
+https://2204lw.janjua.pw:8088/live/agrrrr/playlist.m3u8?vidictid=18944933335&id=97909&pk=d452bd6b9163f640a9bfd0a5d7f47f7d0e1ad8b5b4ae002c667771a62a627625
+
+
