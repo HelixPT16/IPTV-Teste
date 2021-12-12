@@ -4,7 +4,7 @@
 :HELIX IPTV
 
 
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Sport TV 1
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Sport TV 1 Teste
 https://2d03lw.janjua.pw:8088/live/sp302/playlist.m3u8?vidictid=189728096450&id=105182&pk=d452bd6b9163f640a9bfd0a5d7f47f7d0e1ad8b5b4ae002c667771a62a627625
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Sport TV 2 HD
