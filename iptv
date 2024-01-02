@@ -1,38 +1,160 @@
-#EXTM3U
+#EXTINF:-1,PT - RTP 1
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62052
+#EXTINF:-1,PT - RTP 2
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62053
+#EXTINF:-1,PT - RTP 3
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62055
+#EXTINF:-1,PT - RTP Africa
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62056
+#EXTINF:-1,PT - RTP Açores
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62057
+#EXTINF:-1,PT - RTP MADEIRA
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62058
+#EXTINF:-1,PT - RTP MEMORIA
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62059
+#EXTINF:-1,PT - SIC
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62068
+#EXTINF:-1,PT - Sic Caras
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62062
+#EXTINF:-1,PT - Sic Kids
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62064
+#EXTINF:-1,PT - SIC MULHER
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62065
+#EXTINF:-1,PT - SIC NOTICIAS
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62066
+#EXTINF:-1,PT - TVI HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62107
+#EXTINF:-1,PT - Tvi 24
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62105
+#EXTINF:-1,PT - TVI FICCAO
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62106
+#EXTINF:-1,PT - TVI Reality
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62108
+#EXTINF:-1,PT - ARTV HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61973
+#EXTINF:-1,PT - CMTV HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61994
 
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2019/07/Helix_Logo.png",---HELIX IPTV---
-:HELIX IPTV
-
-
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Sport TV 1 Teste
-https://2d03lw.janjua.pw:8088/live/sp302/playlist.m3u8?vidictid=189728096450&id=105182&pk=d452bd6b9163f640a9bfd0a5d7f47f7d0e1ad8b5b4ae002c667771a62a627625
-
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Sport TV 2 HD
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/190?checkedby:ahlakid.com
-
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Sport TV 3 HD
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/191?checkedby:ahlakid.com
-
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Sport TV 4 HD
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/192?checkedby:ahlakid.com
-
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Sport TV 5 HD
-http://www.magicoiptv.org:8080/said/said123/450?checkedby:iptvcat.com
-
-
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Eleven Sport 2
-http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
-
-
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Eleven Sport 4 HD
-http://185.236.229.21:9981/play/a05x?checkedby:ahlakid.com
-
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Eleven Sport 5 HD
-http://185.236.229.21:9981/play/a05y?checkedby:ahlakid.com
 
 
 
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",Canal 11
-https://2204lw.janjua.pw:8088/live/agrrrr/playlist.m3u8?vidictid=18944933335&id=97909&pk=d452bd6b9163f640a9bfd0a5d7f47f7d0e1ad8b5b4ae002c667771a62a627625
+#EXTINF:-1,PT - SPORT TV 1 HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62071
+#EXTINF:-1,PT - SPORT TV 4 HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62074
+#EXTINF:-1,PT - Sport TV NBA HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62076
+#EXTINF:-1,PT - SPORT TV+HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62077
+#EXTINF:-1,PT - Sport TV 2
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62079
+#EXTINF:-1,PT - Sport TV 5
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62082
+#EXTINF:-1,PT - Sporting TV HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62083
+#EXTINF:-1,PT - Benfica TV HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61981
+#EXTINF:-1,PT - BTV HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61984
+#EXTINF:-1,PT - A Bola TV
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61968
+#EXTINF:-1,PT - Canal 11 FHD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61985
+#EXTINF:-1,PT - Eleven Sport 1
+http://c.strzzi.site:80/69754974281040/247129511903/2985191
+#EXTINF:-1,PT - Eleven Sport 2
+http://c.strzzi.site:80/69754974281040/247129511903/2985194
+#EXTINF:-1,PT - Eleven Sport 3
+http://c.strzzi.site:80/69754974281040/247129511903/2985197
+#EXTINF:-1,PT - Eleven Sport 4
+http://c.strzzi.site:80/69754974281040/247129511903/2985200
+#EXTINF:-1,PT - Eleven Sport 5
+http://c.strzzi.site:80/69754974281040/247129511903/2985203
+#EXTINF:-1,PT - Eleven Sport 6
+http://c.strzzi.site:80/69754974281040/247129511903/2985206
+#EXTINF:-1,PT - WWE HD
+http://c.strzzi.site:80/69754974281040/247129511903/2985260
 
 
+
+
+
+#EXTINF:-1,PT - AXN BLACK HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61974
+#EXTINF:-1,PT - AXN Movies HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61975
+#EXTINF:-1,PT - AXN HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61977
+#EXTINF:-1,PT - AXN WHITE HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61979
+#EXTINF:-1,PT - FOX Comedy
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62012
+#EXTINF:-1,PT - FOX CRIME HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62014
+#EXTINF:-1,PT - FOX HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62017
+#EXTINF:-1,PT - FOX LIFE HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62019
+#EXTINF:-1,PT - FOX Movies
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62020
+#EXTINF:-1,PT - FOX Movies HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62021
+#EXTINF:-1,PT - Hollywood HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62027
+#EXTINF:-1,PT - NOS STUDIOS HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62044
+#EXTINF:-1,PT - SyFy
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62084
+#EXTINF:-1,PT - Cinemundo
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61992
+#EXTINF:-1,PT - Cinemundo
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61992
+#EXTINF:-1,PT - CineFlix
+http://c.strzzi.site:80/69754974281040/247129511903/3718407
+
+
+
+
+#EXTINF:-1,PT - 24 Kitchen HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61967
+#EXTINF:-1,PT - A&E TV
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61969
+#EXTINF:-1,PT - AMC
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61971
+#EXTINF:-1,PT - Blaze
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61983
+#EXTINF:-1,PT - Crime & Investigation
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61995
+#EXTINF:-1,PT - FOX News
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62022
+#EXTINF:-1,PT - France 24
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62023
+#EXTINF:-1,PT - Fuel TV
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62024
+
+
+
+#EXTINF:-1,PT -- BABY TV
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61980
+#EXTINF:-1,PT - Biggs
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61982
+#EXTINF:-1,PT - Canal Panda
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61988
+#EXTINF:-1,PT - Canal Q
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61989
+#EXTINF:-1,PT - Discovery Channel
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61996
+#EXTINF:-1,PT - Disney Channel
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61999
+#EXTINF:-1,PT - Disney Junior
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62000
+#EXTINF:-1,PT - PANDA BIGGS
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62048
+#EXTINF:-1,PT - Sic Kids
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62064
+
+
+
+
+#EXTINF:-1,PT - MTV
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62036
